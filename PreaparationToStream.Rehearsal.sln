@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31729.503
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreaparationToStream.Rehearsal", "PreaparationToStream.Rehearsal\PreaparationToStream.Rehearsal.csproj", "{91F10A2B-4ED0-4C02-89B4-CDE4738DFA6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PreaparationToStream.Rehearsal", "PreaparationToStream.Rehearsal\PreaparationToStream.Rehearsal.csproj", "{91F10A2B-4ED0-4C02-89B4-CDE4738DFA6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreparationToStream.LinkedListBenchmarks", "PreparationToStream.LinkedListBenchmarks\PreparationToStream.LinkedListBenchmarks.csproj", "{A33D75BD-166A-4865-8A96-C8F7AD8990BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{91F10A2B-4ED0-4C02-89B4-CDE4738DFA6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91F10A2B-4ED0-4C02-89B4-CDE4738DFA6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91F10A2B-4ED0-4C02-89B4-CDE4738DFA6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A33D75BD-166A-4865-8A96-C8F7AD8990BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A33D75BD-166A-4865-8A96-C8F7AD8990BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A33D75BD-166A-4865-8A96-C8F7AD8990BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A33D75BD-166A-4865-8A96-C8F7AD8990BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
