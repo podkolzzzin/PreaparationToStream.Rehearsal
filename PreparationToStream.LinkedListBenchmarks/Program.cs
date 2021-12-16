@@ -1,10 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
-List<int> list = new List<int>();
+LinkedList<int> list = new LinkedList<int>();
 try
 {
     while (true)
     {
-        list.Add(0);
+        list.AddLast(0);
         if (list.Count % 100_000 == 0)
             Console.WriteLine(list.Count);
     }
